@@ -1,7 +1,4 @@
 const API = 'https://raw.githubusercontent.com/andreymeksya/test/master/';
-// https://raw.githubusercontent.com/ElenaDitiateva/Project_1/dev/json/addToBasket.json { "result": 1 }
-// https://raw.githubusercontent.com/ElenaDitiateva/Project_1/dev/json/
-console.log(API);
 
 const app = new Vue ({
     el: '#app',
